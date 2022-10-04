@@ -30,4 +30,6 @@ Some of the interesting plots are below, all of these were avilable as an endpoi
 7. Plotting Truck route between above points 
 ![image](https://user-images.githubusercontent.com/25322710/193630377-751fea35-690e-4a8b-8a00-2ec219ee5592.png)
 
+8. Filling delhi with Uber H3 cells 
+![image](https://user-images.githubusercontent.com/25322710/193879716-c5561391-ee59-4dd4-9cf4-000d3f085bf3.png)
 
