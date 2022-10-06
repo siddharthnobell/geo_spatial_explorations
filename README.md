@@ -1,5 +1,5 @@
 # geo_spatial_explorations
-geo_spatial_explorations is a little summary of what I did in cleair startup, one of interesting skill I learned was plotting and analyszing pollution data using python. Later I also developed geospatial apis to server frontend. I explemented 
+geo_spatial_explorations is a summary of what I did in cleair startup, one of interesting skill I learned was plotting and analyszing pollution data using python. Later I also developed geospatial apis to server frontend. I explemented 
 - Veronoi tessilation 
 - H3 cells 
 - IDW intepolation 
