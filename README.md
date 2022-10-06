@@ -38,3 +38,6 @@ Some of the interesting plots are below, all of these were avilable as an endpoi
 8. Filling delhi with Uber H3 cells 
 ![image](https://user-images.githubusercontent.com/25322710/193879716-c5561391-ee59-4dd4-9cf4-000d3f085bf3.png)
 
+9. Finding Pollution station inside and outside delhi
+![image](https://user-images.githubusercontent.com/25322710/194386587-58376b54-3310-4fe7-9485-7f85704347f0.png)
+
