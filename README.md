@@ -1,10 +1,15 @@
 # geo_spatial_explorations
-geo_spatial_explorations is a summary of what I did in cleair startup, one of interesting skill I learned was plotting and analyszing pollution data using python. Later I also developed geospatial apis to server frontend. I explemented 
+geo_spatial_explorations is a summary of what I did in cleair startup, one of interesting skill I learned was plotting and analyszing pollution data using python. Later I also developed geospatial apis to server frontend. I impletemted concepts like 
+- Geopandas plots and explore
+- Shaply point and polygon
+- Folium plots 
+- Boundary extraction using OSM nominatim api
+- Geojson to geopandas and plot
 - Veronoi tessilation 
 - H3 cells 
-- IDW intepolation 
+- IDW spatial intepolation 
 - Geospatial and tempotal plots to show hyper local air pollution on a city map in 2 km H3 cell 
-- Lastly I developed a alogorithim where I showed real time pollution exposure of an individual using open routing, IDW and h3 cell.
+- Lastly I developed a alogorithim where I showed real time pollution exposure of an individual from point A to point B using open routing, IDW and h3 cell.
 
 If you find this interesting you can connect and discuss.
 
