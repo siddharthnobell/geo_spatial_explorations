@@ -1,12 +1,18 @@
 # geo_spatial_explorations
-geo_spatial_explorations is a little summary of what I did in cleair startup, one of interesting skill I learned was plotting and analyszing pollution data using python. Later I also developed geospatial apis to server frontend. I explemented 
-- Veronoi tessilation 
-- H3 cells 
-- IDW intepolation 
-- Geospatial and tempotal plots to show hyper local air pollution on a city map in 2 km H3 cell 
-- Lastly I developed a alogorithim where I showed real time pollution exposure of an individual using open routing, IDW and h3 cell.
+geo_spatial_explorations is a summary of what I did in cleair start-up, one of the interesting skills I learned was plotting and analyzing spatial pollution data using python. 
+Later I also developed geospatial APIs for the server frontend. I implemented concepts like 
+- Geopandas plots and explore
+- Shapely point and polygon
+- Folium plots 
+- Boundary extraction using OSM nominatim API
+- Geojson to geopandas and plot
+- Voronoi tessellation 
+- H3 cells tessellation
+- IDW spatial interpolation 
+- Geospatial and temporal plots to show hyper-local air pollution on a city map in a 2 km H3 cell 
+- Lastly, I developed an algorithm where I showed real-time pollution exposure of an individual from point A to point B using open routing, IDW, and h3 cell.
 
-If you find this interesting you can connect and discuss.
+If you find this interesting you can connect and discuss it.
 
 Some of the interesting plots are below, all of these were avilable as an endpoint on product UI.
 1. Interactive world map
@@ -30,4 +36,15 @@ Some of the interesting plots are below, all of these were avilable as an endpoi
 7. Plotting Truck route between above points 
 ![image](https://user-images.githubusercontent.com/25322710/193630377-751fea35-690e-4a8b-8a00-2ec219ee5592.png)
 
+8. Filling delhi with Uber H3 cells 
+![image](https://user-images.githubusercontent.com/25322710/193879716-c5561391-ee59-4dd4-9cf4-000d3f085bf3.png)
+
+9. Finding Pollution station inside and outside delhi
+![image](https://user-images.githubusercontent.com/25322710/194386587-58376b54-3310-4fe7-9485-7f85704347f0.png)
+
+10. Distance of Delhi pollution station from each other
+![image](https://user-images.githubusercontent.com/25322710/194689882-eec7b4a5-1291-4b89-bdb7-c1e14bcfeb46.png)
+
+11. Delhi hyper-local air pollution on 08th Oct 2022 (Raining heavily)
+![image](https://user-images.githubusercontent.com/25322710/194699409-057430de-46f6-4a45-a26d-5cd3c6516a3e.png)
 
