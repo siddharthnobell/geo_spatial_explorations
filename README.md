@@ -42,5 +42,5 @@ Some of the interesting plots are below, all of these were avilable as an endpoi
 9. Finding Pollution station inside and outside delhi
 ![image](https://user-images.githubusercontent.com/25322710/194386587-58376b54-3310-4fe7-9485-7f85704347f0.png)
 
-10. Delhi pollution station from each other
+10. Ditance of Delhi pollution station from each other
 ![image](https://user-images.githubusercontent.com/25322710/194689882-eec7b4a5-1291-4b89-bdb7-c1e14bcfeb46.png)
