@@ -44,3 +44,7 @@ Some of the interesting plots are below, all of these were avilable as an endpoi
 
 10. Distance of Delhi pollution station from each other
 ![image](https://user-images.githubusercontent.com/25322710/194689882-eec7b4a5-1291-4b89-bdb7-c1e14bcfeb46.png)
+
+11. Delhi hyper-local air pollution on 08th Oct 2022 (Raining heavily)
+![image](https://user-images.githubusercontent.com/25322710/194699409-057430de-46f6-4a45-a26d-5cd3c6516a3e.png)
+
